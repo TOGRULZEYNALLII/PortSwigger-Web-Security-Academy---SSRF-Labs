@@ -48,7 +48,9 @@ X-Frame-Options: SAMEORIGIN
 Content-Length: 6066
 
 
-BURADA 200 OK ALDIGIMIZ GORUNUR ,BU O DEMEKDIRKI ADMIN KIMI DAXIL OLMUSUQ VE RENDERDE BIZE ADMIN SEHIFESI ACILIB ORADAN DELETE CARLOS LINKINE BASARAQ CARLOSU SILIRIK VE NETICEDE TEBRIKLER LABI KECIDNIZ CAVABINI 2 CI DEFE SORGUNU ATANDA GORURUK 
+Burada 200 OK cavabını aldığımız görünür. Bu o deməkdir ki, admin kimi daxil olmuşuq və Render-də bizə admin səhifəsi açılıb.
+Oradan "Delete Carlos" linkinə basaraq Carlosu silirik və nəticədə sorğunu 2-ci dəfə atanda "Təbriklər, labı keçdiniz" cavabını görürük.
+
 <!DOCTYPE html>
 <html>
 <!--LAB_HEAD_START-->
